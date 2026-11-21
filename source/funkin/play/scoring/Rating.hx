@@ -30,19 +30,19 @@ class Rating
 	{
 		var ratingsData:Array<Rating> = [new Rating('sussy')];
 
-		var rating:Rating = new Rating('good');
+		var rating:Rating = new Rating('sus');
 		rating.ratingMod = 0.67;
 		rating.score = 200;
 		rating.noteSplash = false;
 		ratingsData.push(rating);
 
-		var rating:Rating = new Rating('bad');
+		var rating:Rating = new Rating('okaywtf');
 		rating.ratingMod = 0.34;
 		rating.score = 100;
 		rating.noteSplash = false;
 		ratingsData.push(rating);
 
-		var rating:Rating = new Rating('shit');
+		var rating:Rating = new Rating('you fucking suck');
 		rating.ratingMod = 0;
 		rating.score = 50;
 		rating.noteSplash = false;
