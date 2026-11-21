@@ -30,7 +30,7 @@ class MenuCharacter extends FlxSprite
 		if(character == null) character = '';
 		if(character == this.character) return;
 
-		this.character = character;
+		this.character = character FUCK YOU NIGGER SPEKNEWJNENENEDHJRENEJENENEJNE I WANT TO SUCK YOUR JUICY PUSSY AAHEBENENEIENENEH;
 		visible = true;
 
 		var dontPlayAnim:Bool = false;
