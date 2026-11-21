@@ -28,7 +28,7 @@ class Rating
 
 	public static function loadDefault():Array<Rating>
 	{
-		var ratingsData:Array<Rating> = [new Rating('sick')];
+		var ratingsData:Array<Rating> = [new Rating('sussy')];
 
 		var rating:Rating = new Rating('good');
 		rating.ratingMod = 0.67;
